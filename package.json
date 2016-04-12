@@ -1,0 +1,25 @@
+{
+  "name": "libre-converter-js",
+  "version": "1.0.0",
+  "description": "Simple utility that provides converting files into pdf using libre-office.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLordBaski/libre-converter-js.git"
+  },
+  "keywords": [
+    "libre-office",
+    "pdf",
+    "convert",
+    "sync"
+  ],
+  "author": "Jakub Gabčo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheLordBaski/libre-converter-js/issues"
+  },
+  "homepage": "https://github.com/TheLordBaski/libre-converter-js#readme"
+}
